@@ -1,5 +1,6 @@
 # Machine-learning-coursera
-This first course treats the machine learning method as a black box.  Using this abstraction, you will focus on understanding tasks of interest, matching these tasks to machine learning tools, and assessing the quality of the output. In subsequent courses, you will delve into the components of this black box by examining models and algorithms.  Together, these pieces form the machine learning pipeline, which you will use in developing intelligent applications.
+# Course 1
+Treats the machine learning method as a black box.  Using this abstraction, you will focus on understanding tasks of interest, matching these tasks to machine learning tools, and assessing the quality of the output. In subsequent courses, you will delve into the components of this black box by examining models and algorithms.  Together, these pieces form the machine learning pipeline, which you will use in developing intelligent applications.
 
 ### Learning Outcomes:  By the end of this course, you will be able to:
    -Identify potential applications of machine learning in practice.  
@@ -12,7 +13,7 @@ This first course treats the machine learning method as a black box.  Using this
    -Build an end-to-end application that uses machine learning at its core.  
    -Implement these techniques in Python.
    
-### Projectshese assignments will walk you through Python implementations of intelligent applications for:
+### Projects: These assignments will walk you through Python implementations of intelligent applications for:
 1. Predicting house prices
 2. Analyzing the sentiment of product reviews
 3. Retrieving Wikipedia articles
